@@ -1,1 +1,1 @@
-# llm_benchmarks
+# ai-prototypes
