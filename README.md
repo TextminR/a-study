@@ -1,1 +1,1 @@
-# ai-prototypes
+# ai-study
