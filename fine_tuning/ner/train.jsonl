@@ -1,0 +1,92 @@
+{"prompt":"This text was written by Robert Smith on the 4th of July, 2020.","response":"{\n  \"author\": \"Robert Smith\",\n  \"date\": \"4th of July, 2020\"\n}"}
+{"prompt":"This is a letter from John Smith on 12th March 2018.","response":"{\n  \"author\": \"John Smith\",\n  \"date\": \"12th March 2018\"\n}"}
+{"prompt":"On the 1st of January, 2001, a research paper was published by Jane Doe.","response":"{\n  \"author\": \"Jane Doe\",\n  \"date\": \"1st of January, 2001\"\n}"}
+{"prompt":"Dieser Bericht wurde von Angela Merkel am 3. Oktober 2000 verfasst.","response":"{\n  \"author\": \"Angela Merkel\",\n  \"date\": \"3. Oktober 2000\"\n}"}
+{"prompt":"On the 5th of July, 2005, a document was drafted by Albert Einstein.","response":"{\n  \"author\": \"Albert Einstein\",\n  \"date\": \"5th of July, 2005\"\n}"}
+{"prompt":"This text was written by John Doe on 12th of March, 2020.","response":"{\n  \"author\": \"John Doe\",\n  \"date\": \"12th of March, 2020\"\n}"}
+{"prompt":"In 1851, Herman Melville published his famous novel \"Moby Dick\".","response":"{\n  \"author\": \"Herman Melville\",\n  \"date\": \"1851\"\n}"}
+{"prompt":"Am 15. August 1947 ver\u00f6ffentlichte Mahatma Gandhi einen Brief.","response":"{\n  \"author\": \"Mahatma Gandhi\",\n  \"date\": \"15. August 1947\"\n}"}
+{"prompt":"On April 14, 1939, John Steinbeck published his novel \"The Grapes of Wrath\".","response":"{\n  \"author\": \"John Steinbeck\",\n  \"date\": \"April 14, 1939\"\n}"}
+{"prompt":"This book was written by George Orwell in 1949.","response":"{\n  \"author\": \"George Orwell\",\n  \"date\": \"1949\"\n}"}
+{"prompt":"Ernest Hemingway wrote \"The Old Man and the Sea\" in 1952.","response":"{\n  \"author\": \"Ernest Hemingway\",\n  \"date\": \"1952\"\n}"}
+{"prompt":"Dieser Text wurde von Julia Fischer am 31. Oktober 2017 verfasst.","response":"{\n  \"author\": \"Julia Fischer\",\n  \"date\": \"31. Oktober 2017\"\n}"}
+{"prompt":"In 1943, Antoine de Saint-Exup\u00e9ry published his famous novella \"The Little Prince\".","response":"{\n  \"author\": \"Antoine de Saint-Exup\u00e9ry\",\n  \"date\": \"1943\"\n}"}
+{"prompt":"In 1937, J.R.R. Tolkien published his famous novel \"The Hobbit\".","response":"{\n  \"author\": \"J.R.R. Tolkien\",\n  \"date\": \"1937\"\n}"}
+{"prompt":"Das Buch \"Die Verwandlung\" wurde 1915 von Franz Kafka geschrieben.","response":"{\n  \"author\": \"Franz Kafka\",\n  \"date\": \"1915\"\n}"}
+{"prompt":"The famous novel \"To Kill a Mockingbird\" was published by Harper Lee on July 11, 1960.","response":"{\n  \"author\": \"Harper Lee\",\n  \"date\": \"July 11, 1960\"\n}"}
+{"prompt":"The book \"Pride and Prejudice\" was written by Jane Austen and published in 1813.","response":"{\n  \"author\": \"Jane Austen\",\n  \"date\": \"1813\"\n}"}
+{"prompt":"Am 14. Februar 2019 wurde dieser Text von Daniel Meyer geschrieben.","response":"{\n  \"author\": \"Daniel Meyer\",\n  \"date\": \"14. Februar 2019\"\n}"}
+{"prompt":"Am 10. November 1782 ver\u00f6ffentlichte Wolfgang Amadeus Mozart seine Sonate Nr. 16.","response":"{\n  \"author\": \"Wolfgang Amadeus Mozart\",\n  \"date\": \"10. November 1782\"\n}"}
+{"prompt":"On 1st January 2022, a text was written by Emily Johnson.","response":"{\n  \"author\": \"Emily Johnson\",\n  \"date\": \"1st January 2022\"\n}"}
+{"prompt":"Im Jahr 1843 ver\u00f6ffentlichte Charles Dickens sein ber\u00fchmtes Buch \"A Christmas Carol\".","response":"{\n  \"author\": \"Charles Dickens\",\n  \"date\": \"1843\"\n}"}
+{"prompt":"Am 3. M\u00e4rz 2003 ver\u00f6ffentlichte Stephen King diesen Roman.","response":"{\n  \"author\": \"Stephen King\",\n  \"date\": \"3. M\u00e4rz 2003\"\n}"}
+{"prompt":"In 1960, Harper Lee published her novel \"To Kill a Mockingbird\".","response":"{\n  \"author\": \"Harper Lee\",\n  \"date\": \"1960\"\n}"}
+{"prompt":"Am 20. April 2001 schrieb Angela Merkel einen Brief.","response":"{\n  \"author\": \"Angela Merkel\",\n  \"date\": \"20. April 2001\"\n}"}
+{"prompt":"The book \"The Great Gatsby\" was written by F. Scott Fitzgerald and published on April 10, 1925.","response":"{\n  \"author\": \"F. Scott Fitzgerald\",\n  \"date\": \"April 10, 1925\"\n}"}
+{"prompt":"Das Buch \"Faust\" wurde von Johann Wolfgang von Goethe geschrieben und 1808 ver\u00f6ffentlicht.","response":"{\n  \"author\": \"Johann Wolfgang von Goethe\",\n  \"date\": \"1808\"\n}"}
+{"prompt":"In 1922, T.S. Eliot published his famous poem \"The Waste Land\".","response":"{\n  \"author\": \"T.S. Eliot\",\n  \"date\": \"1922\"\n}"}
+{"prompt":"This is a report by Albert Einstein on 14th March 1879.","response":"{\n  \"author\": \"Albert Einstein\",\n  \"date\": \"14th March 1879\"\n}"}
+{"prompt":"Dieser Text wurde von Thomas M\u00fcller am 25. Dezember 2019 verfasst.","response":"{\n  \"author\": \"Thomas M\u00fcller\",\n  \"date\": \"25. Dezember 2019\"\n}"}
+{"prompt":"Am 24. Februar 1920 wurde Adolf Hitlers Buch \"Mein Kampf\" ver\u00f6ffentlicht.","response":"{\n  \"author\": \"Adolf Hitler\",\n  \"date\": \"24. Februar 1920\"\n}"}
+{"prompt":"\"Der Zauberberg\", ein Roman von Thomas Mann, wurde 1924 ver\u00f6ffentlicht.","response":"{\n  \"author\": \"Thomas Mann\",\n  \"date\": \"1924\"\n}"}
+{"prompt":"In 1949, George Orwell released his dystopian novel \"1984\".","response":"{\n  \"author\": \"George Orwell\",\n  \"date\": \"1949\"\n}"}
+{"prompt":"\"1984\", a dystopian novel by George Orwell, was first published in 1949.","response":"{\n  \"author\": \"George Orwell\",\n  \"date\": \"1949\"\n}"}
+{"prompt":"The book \"To Kill a Mockingbird\" was written by Harper Lee and published on July 11, 1960.","response":"{\n  \"author\": \"Harper Lee\",\n  \"date\": \"July 11, 1960\"\n}"}
+{"prompt":"The author of this text is Sarah Brown and it was written on 30th June 2021.","response":"{\n  \"author\": \"Sarah Brown\",\n  \"date\": \"30th June 2021\"\n}"}
+{"prompt":"Am 15. Februar 1999 ver\u00f6ffentlichte Johann Wolfgang von Goethe dieses Gedicht.","response":"{\n  \"author\": \"Johann Wolfgang von Goethe\",\n  \"date\": \"15. Februar 1999\"\n}"}
+{"prompt":"Am 28. September 1909 wurde Thomas Manns Roman \"Buddenbrooks\" ver\u00f6ffentlicht.","response":"{\n  \"author\": \"Thomas Mann\",\n  \"date\": \"28. September 1909\"\n}"}
+{"prompt":"\"Faust\", ein Drama von Johann Wolfgang von Goethe, wurde 1808 ver\u00f6ffentlicht.","response":"{\n  \"author\": \"Johann Wolfgang von Goethe\",\n  \"date\": \"1808\"\n}"}
+{"prompt":"On the 7th of July, 2007, a blog post was published by Mark Zuckerberg.","response":"{\n  \"author\": \"Mark Zuckerberg\",\n  \"date\": \"7th of July, 2007\"\n}"}
+{"prompt":"Am 2. Februar 2019 hat David Becker diesen Text geschrieben.","response":"{\n  \"author\": \"David Becker\",\n  \"date\": \"2. Februar 2019\"\n}"}
+{"prompt":"\"Die Verwandlung\" ist eine Novelle von Franz Kafka, die im Jahr 1915 ver\u00f6ffentlicht wurde.","response":"{\n  \"author\": \"Franz Kafka\",\n  \"date\": \"1915\"\n}"}
+{"prompt":"In 1818, Mary Shelley published her famous novel \"Frankenstein\".","response":"{\n  \"author\": \"Mary Shelley\",\n  \"date\": \"1818\"\n}"}
+{"prompt":"This text, written by Lisa Taylor, was published on 10th October 2021.","response":"{\n  \"author\": \"Lisa Taylor\",\n  \"date\": \"10th October 2021\"\n}"}
+{"prompt":"Im Jahr 1774 ver\u00f6ffentlichte Johann Wolfgang von Goethe seinen Roman \"Die Leiden des jungen Werthers\".","response":"{\n  \"author\": \"Johann Wolfgang von Goethe\",\n  \"date\": \"1774\"\n}"}
+{"prompt":"Dieser Artikel wurde von Johann Wolfgang von Goethe am 22. April 1782 verfasst.","response":"{\n  \"author\": \"Johann Wolfgang von Goethe\",\n  \"date\": \"22. April 1782\"\n}"}
+{"prompt":"Am 1. Mai 1960 ver\u00f6ffentlichte Johann Wolfgang von Goethe ein Gedicht.","response":"{\n  \"author\": \"Johann Wolfgang von Goethe\",\n  \"date\": \"1. Mai 1960\"\n}"}
+{"prompt":"Dieser Text wurde von Thomas M\u00fcller am 24. Dezember 2019 geschrieben.","response":"{\n  \"author\": \"Thomas M\u00fcller\",\n  \"date\": \"24. Dezember 2019\"\n}"}
+{"prompt":"\"Faust\" ist ein Drama von Johann Wolfgang von Goethe, das im Jahr 1808 ver\u00f6ffentlicht wurde.","response":"{\n  \"author\": \"Johann Wolfgang von Goethe\",\n  \"date\": \"1808\"\n}"}
+{"prompt":"\"Lord of the Flies\", a novel by William Golding, was first published in 1954.","response":"{\n  \"author\": \"William Golding\",\n  \"date\": \"1954\"\n}"}
+{"prompt":"Am 15. April 2020 wurde dieser Text von Maria Schmidt verfasst.","response":"{\n  \"author\": \"Maria Schmidt\",\n  \"date\": \"15. April 2020\"\n}"}
+{"prompt":"In 1984, George Orwell published his famous novel \"1984\".","response":"{\n  \"author\": \"George Orwell\",\n  \"date\": \"1984\"\n}"}
+{"prompt":"Am 1. Januar 2001 schrieb Thomas Mann diesen Roman.","response":"{\n  \"author\": \"Thomas Mann\",\n  \"date\": \"1. Januar 2001\"\n}"}
+{"prompt":"Am 10. Dezember 1865 wurde Lewis Carrolls \"Alice im Wunderland\" ver\u00f6ffentlicht.","response":"{\n  \"author\": \"Lewis Carroll\",\n  \"date\": \"10. Dezember 1865\"\n}"}
+{"prompt":"This is a text written by John Doe on 12th March 2021.","response":"{\n  \"author\": \"John Doe\",\n  \"date\": \"12th March 2021\"\n}"}
+{"prompt":"Im Jahr 1920 ver\u00f6ffentlichte Franz Kafka \"Das Schloss\", eines seiner bekanntesten Werke.","response":"{\n  \"author\": \"Franz Kafka\",\n  \"date\": \"1920\"\n}"}
+{"prompt":"\"Animal Farm\" is a novel by George Orwell, published in 1945.","response":"{\n  \"author\": \"George Orwell\",\n  \"date\": \"1945\"\n}"}
+{"prompt":"Dieser Text wurde von Maria Schmidt am 15. August 2020 verfasst.","response":"{\n  \"author\": \"Maria Schmidt\",\n  \"date\": \"15. August 2020\"\n}"}
+{"prompt":"The first edition of \"Pride and Prejudice\" by Jane Austen was published on January 28, 1813.","response":"{\n  \"author\": \"Jane Austen\",\n  \"date\": \"January 28, 1813\"\n}"}
+{"prompt":"Im Jahr 1925 wurde der Roman \"Der gro\u00dfe Gatsby\" von F. Scott Fitzgerald ver\u00f6ffentlicht.","response":"{\n  \"author\": \"F. Scott Fitzgerald\",\n  \"date\": \"1925\"\n}"}
+{"prompt":"On September 1, 1851, Herman Melville published his masterpiece, \"Moby-Dick\".","response":"{\n  \"author\": \"Herman Melville\",\n  \"date\": \"September 1, 1851\"\n}"}
+{"prompt":"On the 20th of May, 2020, a scientific paper was published by Stephen Hawking.","response":"{\n  \"author\": \"Stephen Hawking\",\n  \"date\": \"20th of May, 2020\"\n}"}
+{"prompt":"Am 11. November 2018 wurde dieser Text von Anna Schneider verfasst.","response":"{\n  \"author\": \"Anna Schneider\",\n  \"date\": \"11. November 2018\"\n}"}
+{"prompt":"Im Jahr 1871 ver\u00f6ffentlichte Lewis Carroll sein bekanntes Buch \"Alice im Wunderland\".","response":"{\n  \"author\": \"Lewis Carroll\",\n  \"date\": \"1871\"\n}"}
+{"prompt":"On the 15th of August, 1947, a declaration was made by Jawaharlal Nehru.","response":"{\n  \"author\": \"Jawaharlal Nehru\",\n  \"date\": \"15th of August, 1947\"\n}"}
+{"prompt":"\"Die Blechtrommel\", ein Roman von G\u00fcnter Grass, wurde 1959 ver\u00f6ffentlicht.","response":"{\n  \"author\": \"G\u00fcnter Grass\",\n  \"date\": \"1959\"\n}"}
+{"prompt":"This article was written by Charles Dickens on the 30th of June, 1865.","response":"{\n  \"author\": \"Charles Dickens\",\n  \"date\": \"30th of June, 1865\"\n}"}
+{"prompt":"The poem \"The Raven\" was written by Edgar Allan Poe and published on January 29, 1845.","response":"{\n  \"author\": \"Edgar Allan Poe\",\n  \"date\": \"January 29, 1845\"\n}"}
+{"prompt":"This is an article written by Charles Dickens on 7th February 1812.","response":"{\n  \"author\": \"Charles Dickens\",\n  \"date\": \"7th February 1812\"\n}"}
+{"prompt":"The article titled \"The Theory of Relativity\" was written by Albert Einstein and published on November 25, 1915.","response":"{\n  \"author\": \"Albert Einstein\",\n  \"date\": \"November 25, 1915\"\n}"}
+{"prompt":"Am 9. November 1989 gab Helmut Kohl eine Rede.","response":"{\n  \"author\": \"Helmut Kohl\",\n  \"date\": \"9. November 1989\"\n}"}
+{"prompt":"Am 25. Dezember 1995 ver\u00f6ffentlichte Stephen King dieses Buch.","response":"{\n  \"author\": \"Stephen King\",\n  \"date\": \"25. Dezember 1995\"\n}"}
+{"prompt":"\"1984\", ein dystopischer Roman von George Orwell, wurde 1949 ver\u00f6ffentlicht.","response":"{\n  \"author\": \"George Orwell\",\n  \"date\": \"1949\"\n}"}
+{"prompt":"\"The Old Man and the Sea\", a novel by Ernest Hemingway, was published in 1952.","response":"{\n  \"author\": \"Ernest Hemingway\",\n  \"date\": \"1952\"\n}"}
+{"prompt":"Am 25. Dezember 1999 schrieb Angela Merkel diesen Text.","response":"{\n  \"author\": \"Angela Merkel\",\n  \"date\": \"25. Dezember 1999\"\n}"}
+{"prompt":"The book \"1984\" was written by George Orwell and published on June 8, 1949.","response":"{\n  \"author\": \"George Orwell\",\n  \"date\": \"June 8, 1949\"\n}"}
+{"prompt":"On the 30th of September, 2010, a research paper was published by Stephen Hawking.","response":"{\n  \"author\": \"Stephen Hawking\",\n  \"date\": \"30th of September, 2010\"\n}"}
+{"prompt":"The book \"1984\" was written by George Orwell and published in 1949.","response":"{\n  \"author\": \"George Orwell\",\n  \"date\": \"1949\"\n}"}
+{"prompt":"Am 10. Oktober 2000 ver\u00f6ffentlichte J.K. Rowling diesen Roman.","response":"{\n  \"author\": \"J.K. Rowling\",\n  \"date\": \"10. Oktober 2000\"\n}"}
+{"prompt":"The text \"The Catcher in the Rye\" was written by J.D. Salinger in 1951.","response":"{\n  \"author\": \"J.D. Salinger\",\n  \"date\": \"1951\"\n}"}
+{"prompt":"On 29th February 2020, this text was authored by Michael Davis.","response":"{\n  \"author\": \"Michael Davis\",\n  \"date\": \"29th February 2020\"\n}"}
+{"prompt":"\"Der Prozess\", ein Roman von Franz Kafka, wurde 1925 posthum ver\u00f6ffentlicht.","response":"{\n  \"author\": \"Franz Kafka\",\n  \"date\": \"1925\"\n}"}
+{"prompt":"On the 31st of October, 2000, a report was written by Tony Blair.","response":"{\n  \"author\": \"Tony Blair\",\n  \"date\": \"31st of October, 2000\"\n}"}
+{"prompt":"Am 1. Januar 2000 schrieb Albert Einstein diesen Brief.","response":"{\n  \"author\": \"Albert Einstein\",\n  \"date\": \"1. Januar 2000\"\n}"}
+{"prompt":"\"Die Verwandlung\", eine Novelle von Franz Kafka, wurde 1915 ver\u00f6ffentlicht.","response":"{\n  \"author\": \"Franz Kafka\",\n  \"date\": \"1915\"\n}"}
+{"prompt":"On 1st January 2022, this text was authored by Richard Johnson.","response":"{\n  \"author\": \"Richard Johnson\",\n  \"date\": \"1st January 2022\"\n}"}
+{"prompt":"Am 5. Mai 2018 hat Anna Schneider diesen Text verfasst.","response":"{\n  \"author\": \"Anna Schneider\",\n  \"date\": \"5. Mai 2018\"\n}"}
+{"prompt":"Im Jahr 1818 ver\u00f6ffentlichte Mary Shelley ihren Roman \"Frankenstein\".","response":"{\n  \"author\": \"Mary Shelley\",\n  \"date\": \"1818\"\n}"}
+{"prompt":"The scientific paper titled \"Quantum Mechanics\" was written by Max Planck and published on December 14, 1900.","response":"{\n  \"author\": \"Max Planck\",\n  \"date\": \"December 14, 1900\"\n}"}
+{"prompt":"\"Die Leiden des jungen Werthers\" ist ein Roman von Johann Wolfgang von Goethe, der im Jahr 1774 ver\u00f6ffentlicht wurde.","response":"{\n  \"author\": \"Johann Wolfgang von Goethe\",\n  \"date\": \"1774\"\n}"}
+{"prompt":"In a letter dated May 10, 1933, Albert Einstein wrote to his friend about his latest discoveries.","response":"{\n  \"author\": \"Albert Einstein\",\n  \"date\": \"May 10, 1933\"\n}"}
+{"prompt":"\"Der Prozess\" ist ein Roman von Franz Kafka, der posthum im Jahr 1925 ver\u00f6ffentlicht wurde.","response":"{\n  \"author\": \"Franz Kafka\",\n  \"date\": \"1925\"\n}"}
+{"prompt":"The book \"To Kill a Mockingbird\" was written by Harper Lee and published in 1960.","response":"{\n  \"author\": \"Harper Lee\",\n  \"date\": \"1960\"\n}"}

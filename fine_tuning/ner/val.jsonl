@@ -1,0 +1,10 @@
+{"prompt":"The book \"1984\" was written by George Orwell in 1949.","response":"{\n  \"author\": \"George Orwell\",\n  \"date\": \"1949\"\n}"}
+{"prompt":"In 1851, Herman Melville published his novel \"Moby-Dick\".","response":"{\n  \"author\": \"Herman Melville\",\n  \"date\": \"1851\"\n}"}
+{"prompt":"On the 21st of June, 1987, a novel was published by J.K. Rowling.","response":"{\n  \"author\": \"J.K. Rowling\",\n  \"date\": \"21st of June, 1987\"\n}"}
+{"prompt":"The novel \"Pride and Prejudice\" was written by Jane Austen and published on January 28, 1813.","response":"{\n  \"author\": \"Jane Austen\",\n  \"date\": \"January 28, 1813\"\n}"}
+{"prompt":"A poem was written by Emily Dickinson on 10th December 1830.","response":"{\n  \"author\": \"Emily Dickinson\",\n  \"date\": \"10th December 1830\"\n}"}
+{"prompt":"Am 12. Februar 1809 schrieb Charles Darwin einen Artikel.","response":"{\n  \"author\": \"Charles Darwin\",\n  \"date\": \"12. Februar 1809\"\n}"}
+{"prompt":"\"Der Prozess\", ein Roman von Franz Kafka, wurde posthum im Jahr 1925 ver\u00f6ffentlicht.","response":"{\n  \"author\": \"Franz Kafka\",\n  \"date\": \"1925\"\n}"}
+{"prompt":"Das Buch \"Moby Dick\" wurde 1851 von Herman Melville geschrieben.","response":"{\n  \"author\": \"Herman Melville\",\n  \"date\": \"1851\"\n}"}
+{"prompt":"\"Die Verwandlung\" ist eine Novelle von Franz Kafka, die erstmals 1915 ver\u00f6ffentlicht wurde.","response":"{\n  \"author\": \"Franz Kafka\",\n  \"date\": \"1915\"\n}"}
+{"prompt":"Im Jahr 1925 ver\u00f6ffentlichte F. Scott Fitzgerald seinen bekannten Roman \"Der gro\u00dfe Gatsby\".","response":"{\n  \"author\": \"F. Scott Fitzgerald\",\n  \"date\": \"1925\"\n}"}
